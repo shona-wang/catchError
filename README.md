@@ -1,0 +1,2 @@
+# catchError
+nodejs实现将前端控制台捕获的错误保存到mongo数据库中。提供存和取
