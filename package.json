@@ -1,0 +1,18 @@
+{
+  "name": "catcherr",
+  "version": "1.0.0",
+  "description": "catch err store in mongodb",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shona",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "mongodb": "^3.0.0-rc0"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
